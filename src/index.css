@@ -1,0 +1,17 @@
+html, body {
+  height: 100vh;
+}
+
+#root {
+  background-color: orange;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.fondoNaranja {
+  color: white;
+  background-color: #ff8533;
+}
+
